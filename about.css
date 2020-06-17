@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+body { color:#555; margin:0; font-family: 'Montserrat', sans-serif;}
+#header{background-color:#1abc9c; height:150px; line-height:150px;}
+#header-title{float:left; display:block; font-size:20px; font-weight:bold;}
+#header a {color:white; text-decoration:none; text-transform: uppercase; letter-spacing: 0.1em;}
+#header a:hover {color: #222;}
+#header-nav{display:block; float:right; margin-top: 0;}
+#header-nav li {display:inline; padding-left:20px;}
+.container { margin: 0 auto; max-width: 1000px;}
+#footer{ background-color: #2f2f2f; padding: 50px 0;}
+.column {display:inline-block; max-width:500px; vertical-align: top; margin: 0 75px 0 75px;}
+#footer h4 {color: white; letter-spacing: 0.1em; text-transform: uppercase;}
+#footer p {color:white;}
+a {color:#1abc9c; text-decoration:none;}
+a:hover{color:#f6a623;}
+.About{ margin: 0 auto; max-width:800px; padding:60px 0;}
+.About-author img{border-radius: 25px; width: 300px; height:300px; vertical align:middle;}
+.About-author span { margin-left: 16px;}
+.About-date{color:#d2d2d2; font-size: 14px; text-transform: uppercase; font-weight: bold; letter-spacing: 0.1em;}
+h1 h2 h3 h4 { color:#333;}
+p {line-height: 1.5;}
+#content {background-color:rgba(177,216,181,0.2);}
+.text:first-letter {Font-size:75px; color: Green; font-weight:bold; font-family: comic;}
+.about{text-align: center;}
